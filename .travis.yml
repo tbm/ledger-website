@@ -8,6 +8,7 @@ language: ruby
 addons:
   apt:
     packages:
+      - language-pack-en
       - texinfo
       - groff
       - texlive
